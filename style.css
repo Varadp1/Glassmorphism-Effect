@@ -10,6 +10,7 @@
     width: 100vw;
     height: 100vh;
     background: linear-gradient(to right, rgb(0, 81, 255), rgb(3, 177, 119));
+    flex-wrap: wrap;
 }
 
 .item{
